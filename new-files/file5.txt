@@ -1,3 +1,4 @@
 It is a new file in the new-files folder
 
-updated file5.txt. This line was modified again in master branch.
+updated file5.txt. This line was changed in BR-3 branch & This line was modified again in master branch.
+
