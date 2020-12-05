@@ -1,0 +1,23 @@
+#ignore all files with extension .tmp
+
+*.tmp
+
+#ignore all files inside bin directory
+
+bin/
+
+#ignore single file with name testing.txt
+
+testing.txt
+
+#ignore all files inside below mentioned hidden directories
+
+.Trash/
+.vscode/
+.DS_Store/
+.idea/
+.docker/
+.config/
+.atom/
+.azure/
+.kube/
